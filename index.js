@@ -12,7 +12,7 @@ app.use(express.json());
 
 //! server get
 app.get("/", (req, res) => {
-  res.send("Hello stock fruit Server");
+  res.send("Hello Tour Lover Server");
 });
 
 //! server listen
